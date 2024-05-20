@@ -10,7 +10,7 @@ h2 {
 </style><title>index.html</title>
 
 <body bgcolor="pink">
-<img src="сердце2.png" style="position: absolute; right: 37%; top: 20%; width="370"; height="370">
+<img src="https://catherineasquithgallery.com/uploads/posts/2021-02/1614519210_32-p-serdechko-na-belom-fone-40.png" style="position: absolute; right: 37%; top: 20%; width="370"; height="370">
 <img src="кот1.jpg" style="position: absolute; right: 17%; top: 30%; width="270"; height="270">
 <img src="кот3.jpg" style="position: absolute; left: 17%; top: 30%; width="270"; height="270">
 
